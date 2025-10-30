@@ -1,0 +1,118 @@
+{
+  "boys": [
+    {
+      "id": 1,
+      "name": "Buzz Lightyear",
+      "price": "1.350.000đ",
+      "image": "buzzlightyear.webp",
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+    },
+    {
+      "id": 2,
+      "name": "Woody",
+      "price": "1.250.000đ",
+      "image": "woody.jpg",
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+    },
+    {
+      "id": 3,
+      "name": "Buzz Lightyear",
+      "price": "1.350.000đ",
+      "image": "buzzlightyear.webp",
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+    },
+    {
+      "id": 4,
+      "name": "Woody",
+      "price": "1.250.000đ",
+      "image": "woody.jpg",
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+    },
+    {
+      "id": 5,
+      "name": "Buzz Lightyear",
+      "price": "1.350.000đ",
+      "image": "buzzlightyear.webp",
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+    },
+    {
+      "id": 6,
+      "name": "Woody",
+      "price": "1.250.000đ",
+      "image": "woody.jpg",
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+    }
+  ],
+  "girls": [
+    {
+      "id": 7,
+      "name": "Búp bê công chúa Elsa",
+      "price": "280.000đ",
+      "image": "elsa.webp",
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+    },
+    {
+      "id": 8,
+      "name": "Gấu bông Lotso",
+      "price": "250.000đ",
+      "image": "lotso.jpg",
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+    },
+    {
+      "id": 9,
+      "name": "Búp bê công chúa Elsa",
+      "price": "280.000đ",
+      "image": "elsa.webp",
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+    },
+    {
+      "id": 10,
+      "name": "Gấu bông Lotso",
+      "price": "250.000đ",
+      "image": "lotso.jpg",
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+    },
+    {
+      "id": 11,
+      "name": "Búp bê công chúa Elsa",
+      "price": "280.000đ",
+      "image": "elsa.webp",
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+    },
+    {
+      "id": 12,
+      "name": "Gấu bông Lotso",
+      "price": "250.000đ",
+      "image": "lotso.jpg",
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+    },
+    {
+      "id": 13,
+      "name": "Búp bê công chúa Elsa",
+      "price": "280.000đ",
+      "image": "elsa.webp",
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+    },
+    {
+      "id": 14,
+      "name": "Gấu bông Lotso",
+      "price": "250.000đ",
+      "image": "lotso.jpg",
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+    },
+    {
+      "id": 15,
+      "name": "Búp bê công chúa Elsa",
+      "price": "280.000đ",
+      "image": "elsa.webp",
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+    },
+    {
+      "id": 16,
+      "name": "Gấu bông Lotso",
+      "price": "250.000đ",
+      "image": "lotso.jpg",
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+    }
+  ]
+}

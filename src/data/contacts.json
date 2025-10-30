@@ -1,0 +1,22 @@
+[
+  {
+    "network": "Facebook",
+    "url": "www.facebook.com",
+    "icon": "facebook.svg"
+  },
+  {
+    "network": "Instagram",
+    "url": "www.instagram.com",
+    "icon": "instagram.svg"
+  },
+  {
+    "network": "Website",
+    "url": "www.duyanh9299.wordpress.com",
+    "icon": "wordpress.svg"
+  },
+  {
+    "network": "Mail",
+    "url": "www.gmail.com",
+    "icon": "mail.svg"
+  }
+]
