@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Input from "@atoms/Input.jsx";
-import Button from "@atoms/Button.jsx";
+import Input from "@atoms/Input";
+import Button from "@atoms/Button";
 
 export default function MailForm() {
   const [email, setEmail] = useState("");
