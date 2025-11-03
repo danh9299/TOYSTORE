@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import data from "@data/products.json";
+import products from "@data/products.json";
 import Button from "@atoms/Button";
 import Image from "@atoms/Image";
 import Contact from "@organisms/Contact/Contact";
@@ -10,7 +10,7 @@ export default function ProductDetail() {
   const { id } = useParams();
   const productId = Number(id);
 
-  const allProducts = [...data.boys, ...data.girls];
+  const allProducts = [...products.boys, ...products.girls];
   const product = allProducts.find((item) => item.id === productId);
 
   if (!product) {
@@ -38,10 +38,7 @@ export default function ProductDetail() {
           <h3 className="text-xl text-gray-700 font-semibold">
             Phụ kiện đi kèm bao gồm:
           </h3>
-          <List 
-            items={product.feature} 
-            className="list-disc pl-5"
-            />
+          <List items={product.feature} className="list-disc pl-5" />
 
           <Button className="bg-[#f9a432] hover:bg-[#FCB147] text-white mt-4 w-fit p-4">
             Thêm vào giỏ hàng
