@@ -4,7 +4,7 @@ import Image from "@atoms/Image";
 export default function ProductCard({ product }) {
   return (
     <Link to={`/product/${product.id}`}>
-      <div className="w-[200px] h-[240px] bg-[#FAFAFA] shadow rounded-lg p-3 mb-3 hover:shadow-lg transition border-[#e0e0e0] border">
+      <div className="w-[200px] h-[250px] bg-[#FAFAFA] shadow rounded-lg p-4 mb-3 hover:shadow-lg transition border-[#e0e0e0] border">
         <Image
           src={`/img/${product.image}`}
           alt={product.name}
