@@ -1,4 +1,4 @@
-import Input from "@atoms/Input.jsx";
+import Input from "@atoms/Input";
 
 export default function SearchBar() {
   return (

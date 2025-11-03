@@ -5,42 +5,66 @@
       "name": "Buzz Lightyear",
       "price": "1.350.000đ",
       "image": "buzzlightyear.webp",
-      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate..",
+      "feature": [
+        "Pin",
+        "Hộp âm thanh",
+        "Vỏ hộp",
+        "Phiếu bảo hành",
+        "Hướng dẫn"
+      ]
     },
     {
       "id": 2,
       "name": "Woody",
       "price": "1.250.000đ",
       "image": "woody.jpg",
-      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây.",
+      "feature": ["Mũ", "Hộp nhạc", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 3,
       "name": "Buzz Lightyear",
       "price": "1.350.000đ",
       "image": "buzzlightyear.webp",
-      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate..",
+      "feature": [
+        "Pin",
+        "Hộp âm thanh",
+        "Vỏ hộp",
+        "Phiếu bảo hành",
+        "Hướng dẫn"
+      ]
     },
     {
       "id": 4,
       "name": "Woody",
       "price": "1.250.000đ",
       "image": "woody.jpg",
-      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây.",
+      "feature": ["Mũ", "Hộp nhạc", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 5,
       "name": "Buzz Lightyear",
       "price": "1.350.000đ",
       "image": "buzzlightyear.webp",
-      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate.."
+      "desc": "Robot Buzz Lightyear biết nói, bắn laze, võ karate..",
+      "feature": [
+        "Pin",
+        "Hộp âm thanh",
+        "Vỏ hộp",
+        "Phiếu bảo hành",
+        "Hướng dẫn"
+      ]
     },
     {
       "id": 6,
       "name": "Woody",
       "price": "1.250.000đ",
       "image": "woody.jpg",
-      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây."
+      "desc": "Woody đủ phụ kiện kèm hộp âm thanh kéo dây.",
+      "feature": ["Mũ", "Hộp nhạc", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     }
   ],
   "girls": [
@@ -49,70 +73,80 @@
       "name": "Búp bê công chúa Elsa",
       "price": "280.000đ",
       "image": "elsa.webp",
-      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng.",
+      "feature": ["Quần áo", "Tóc giả", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 8,
       "name": "Gấu bông Lotso",
       "price": "250.000đ",
       "image": "lotso.jpg",
-      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp.",
+      "feature": ["Phụ kiện", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 9,
       "name": "Búp bê công chúa Elsa",
       "price": "280.000đ",
       "image": "elsa.webp",
-      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng.",
+      "feature": ["Quần áo", "Tóc giả", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 10,
       "name": "Gấu bông Lotso",
       "price": "250.000đ",
       "image": "lotso.jpg",
-      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp.",
+      "feature": ["Phụ kiện", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 11,
       "name": "Búp bê công chúa Elsa",
       "price": "280.000đ",
       "image": "elsa.webp",
-      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng.",
+      "feature": ["Quần áo", "Tóc giả", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 12,
       "name": "Gấu bông Lotso",
       "price": "250.000đ",
       "image": "lotso.jpg",
-      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp.",
+      "feature": ["Phụ kiện", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 13,
       "name": "Búp bê công chúa Elsa",
       "price": "280.000đ",
       "image": "elsa.webp",
-      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng.",
+      "feature": ["Quần áo", "Tóc giả", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 14,
       "name": "Gấu bông Lotso",
       "price": "250.000đ",
       "image": "lotso.jpg",
-      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp.",
+      "feature": ["Phụ kiện", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 15,
       "name": "Búp bê công chúa Elsa",
       "price": "280.000đ",
       "image": "elsa.webp",
-      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng."
+      "desc": "Búp bê Elsa cao 30cm, có váy phát sáng.",
+      "feature": ["Quần áo", "Tóc giả", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     },
     {
       "id": 16,
       "name": "Gấu bông Lotso",
       "price": "250.000đ",
       "image": "lotso.jpg",
-      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp."
+      "desc": "Gấu bông lotso thơm mùi dâu tây, màu hồng đẹp.",
+      "feature": ["Phụ kiện", "Vỏ hộp", "Hướng dẫn", "Phiếu bảo hành"]
     }
   ]
 }
