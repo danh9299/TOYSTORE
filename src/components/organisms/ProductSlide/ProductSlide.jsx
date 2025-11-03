@@ -1,4 +1,4 @@
-import ProductCard from "@components/ProductCard/ProductCard";
+import ProductCard from "@organisms/ProductCard/ProductCard";
 
 export default function ProductSlide({ title, products }) {
   return (

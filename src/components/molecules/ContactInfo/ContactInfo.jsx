@@ -1,3 +1,5 @@
+import Image from "@atoms/Image";
+
 export default function ContactInfo({ icon, network, url }) {
   return (
     <a
@@ -6,7 +8,7 @@ export default function ContactInfo({ icon, network, url }) {
       target="_blank"
       rel="noopener noreferrer"
     >
-      <img className="max-w-[30px] h-auto w-full" src={icon} alt={network} />
+      <Image className="max-w-[30px] h-auto w-full" src={icon} alt={network} />
       <p className="text-large underline hover:opacity-[0.8]">{network}</p>
     </a>
   );

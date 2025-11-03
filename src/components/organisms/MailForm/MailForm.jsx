@@ -1,4 +1,6 @@
 import { useState } from "react";
+import Input from "@atoms/Input.jsx";
+import Button from "@atoms/Button.jsx";
 
 export default function MailForm() {
   const [email, setEmail] = useState("");
@@ -17,20 +19,20 @@ export default function MailForm() {
         Để lại địa chỉ Mail
       </h2>
       <form onSubmit={(e) => handleSubmit(e)}>
-        <input
-          required
+        <Input
+          required={true}
           type="email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder="Nhập địa chỉ mail của bạn..."
           className="block mt-4 w-full px-4 py-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400 text-gray-700"
         />
-        <button
+        <Button
           type="submit"
           className="block mt-4 px-8 cursor-pointer py-2 bg-gray-600 text-white font-medium hover:bg-[#E0E0E0] rounded active:scale-95 transition-all"
         >
           Gửi
-        </button>
+        </Button>
       </form>
     </div>
   );

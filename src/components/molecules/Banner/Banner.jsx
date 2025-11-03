@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import Image from "@atoms/Image";
+import Button from "@atoms/Button";
 
 export default function Banner({ images = [] }) {
   const [current, setCurrent] = useState(0);
@@ -15,7 +17,7 @@ export default function Banner({ images = [] }) {
   return (
     <div className="relative max-w-[1024px] h-[300px] overflow-hidden rounded-xl shadow-lg">
       {images.map((img, index) => (
-        <img
+        <Image
           key={index}
           src={img}
           alt={`banner-${index}`}
@@ -25,20 +27,20 @@ export default function Banner({ images = [] }) {
         />
       ))}
 
-      <button
+      <Button
         onClick={() =>
           setCurrent((current - 1 + images.length) % images.length)
         }
         className="absolute left-2 top-1/2 -translate-y-1/2 bg-white/60 hover:bg-white text-gray-700 rounded-full p-2"
       >
         ‹
-      </button>
-      <button
+      </Button>
+      <Button
         onClick={() => setCurrent((current + 1) % images.length)}
         className="absolute right-2 top-1/2 -translate-y-1/2 bg-white/60 hover:bg-white text-gray-700 rounded-full p-2"
       >
         ›
-      </button>
+      </Button>
 
       <div className="absolute bottom-3 w-full flex justify-center gap-2">
         {images.map((_, index) => (
